@@ -1,5 +1,8 @@
 # Secure Coding with LLMs
 
+## Requirement
+Python version 3.10 or newer
+
 ## Seting up the Environment
 
 Add your openAI API key in an environment variable and install all the dependencies.
