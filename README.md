@@ -9,7 +9,7 @@ Add your openAI API key in an environment variable and install all the dependenc
 
 ```bash
 export OPENAI_API_KEY=openai-api-key
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Static Analysis Tools
